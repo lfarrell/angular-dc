@@ -2,6 +2,11 @@
 
 AngularJS directives for dc.js
 
+[![Build Status](https://travis-ci.org/TomNeyland/angular-dc.svg)](https://travis-ci.org/TomNeyland/angular-dc)
+
+
+Node deps: [![David](https://david-dm.org/TomNeyland/neweden.im-frontend.svg)](https://david-dm.org/TomNeyland/angular-dc.svg)
+
 ## Getting Started
 
 Download the [production version][min] or the [development version][max].
